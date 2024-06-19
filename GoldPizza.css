@@ -7,7 +7,7 @@
 .dropdown .button{
     position: absolute;
     top: 50px;
-    left: 260px;
+    left: 300px;
     font-size: 30px;
     cursor: pointer;
     color: rgba(255, 255, 255, 0.795);
@@ -81,14 +81,14 @@
     color: rgba(255, 255, 255, 0.795);
     position: absolute;
     top: 200px;
-    left: 60px;
+    left: 40px;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 .btn1{
     position: absolute;
     top: 300px;
-    left: 60px;
+    left: 40px;
     background-color: azure;
     color: black;
     height: 35px;
@@ -109,6 +109,6 @@
     background-color: rgba(43, 43, 124, 0.795);
 }
 img{
-    height: auto;
+    height: 700px;
     width: 100%;
 }
